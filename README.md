@@ -2,7 +2,7 @@
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Python for CyberSec
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Twitter: lite@9078 Instagram: lite_9078
+- 📫 How to reach me Twitter: 0xchoudhary Instagram: 0xchoudhary
 
 <!---
 Liteop/Liteop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
